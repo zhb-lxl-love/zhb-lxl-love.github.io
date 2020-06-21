@@ -1822,7 +1822,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #edffdd;
+  background: #7ff;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2903,4 +2903,22 @@ hr {
     width: auto;
     text-align: center;
   }
+}
+body {
+  background-image: url("http://kan.027cgb.com/630740/timg.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: 50% 50%;
+  background-size: 100% 100%;
+}
+.post-block {
+  background: rgba(255,255,255,0.84);
+  padding: 25px;
+}
+.post {
+  margin-top: 60px;
+  margin-bottom: 60px;
+  padding: 0px;
+  -webkit-box-shadow: 0 0 5px rgba(202,203,203,0.5);
+  -moz-box-shadow: 0 0 5px rgba(202,203,204,0.5);
 }
